@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# training\\assignment\\student_info_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5745C2D5-F422-4547-A050-BADA93493FF6}|sis\\sis.csproj|d:\\c# training\\assignment\\student_info_system\\sis\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5745C2D5-F422-4547-A050-BADA93493FF6}|sis\\sis.csproj|solutionrelative:sis\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5745C2D5-F422-4547-A050-BADA93493FF6}|sis\\sis.csproj|d:\\c# training\\assignment\\student_info_system\\sis\\service\\hospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5745C2D5-F422-4547-A050-BADA93493FF6}|sis\\sis.csproj|solutionrelative:sis\\service\\hospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5745C2D5-F422-4547-A050-BADA93493FF6}|sis\\sis.csproj|d:\\c# training\\assignment\\student_info_system\\sis\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5745C2D5-F422-4547-A050-BADA93493FF6}|sis\\sis.csproj|solutionrelative:sis\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5745C2D5-F422-4547-A050-BADA93493FF6}|sis\\sis.csproj|d:\\c# training\\assignment\\student_info_system\\sis\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5745C2D5-F422-4547-A050-BADA93493FF6}|sis\\sis.csproj|solutionrelative:sis\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5745C2D5-F422-4547-A050-BADA93493FF6}|sis\\sis.csproj|d:\\c# training\\assignment\\student_info_system\\sis\\repository\\interfaces\\isis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5745C2D5-F422-4547-A050-BADA93493FF6}|sis\\sis.csproj|solutionrelative:sis\\repository\\interfaces\\isis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5745C2D5-F422-4547-A050-BADA93493FF6}|sis\\sis.csproj|d:\\c# training\\assignment\\student_info_system\\sis\\repository\\sisrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5745C2D5-F422-4547-A050-BADA93493FF6}|sis\\sis.csproj|solutionrelative:sis\\repository\\sisrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\c# training\\assignment\\student_info_system\\sis\\model\\Student.cs",
+              "RelativeDocumentMoniker": "sis\\model\\Student.cs",
+              "ToolTip": "D:\\c# training\\assignment\\student_info_system\\sis\\model\\Student.cs",
+              "RelativeToolTip": "sis\\model\\Student.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:59:09.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "isis.cs",
+              "DocumentMoniker": "D:\\c# training\\assignment\\student_info_system\\sis\\Repository\\Interfaces\\isis.cs",
+              "RelativeDocumentMoniker": "sis\\Repository\\Interfaces\\isis.cs",
+              "ToolTip": "D:\\c# training\\assignment\\student_info_system\\sis\\Repository\\Interfaces\\isis.cs",
+              "RelativeToolTip": "sis\\Repository\\Interfaces\\isis.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:52:04.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "D:\\c# training\\assignment\\student_info_system\\sis\\Repository\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "sis\\Repository\\StudentRepo.cs",
+              "ToolTip": "D:\\c# training\\assignment\\student_info_system\\sis\\Repository\\StudentRepo.cs",
+              "RelativeToolTip": "sis\\Repository\\StudentRepo.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAuwKsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:42:29.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainModule.cs",
+              "DocumentMoniker": "D:\\c# training\\assignment\\student_info_system\\sis\\Main\\MainModule.cs",
+              "RelativeDocumentMoniker": "sis\\Main\\MainModule.cs",
+              "ToolTip": "D:\\c# training\\assignment\\student_info_system\\sis\\Main\\MainModule.cs",
+              "RelativeToolTip": "sis\\Main\\MainModule.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:41:53.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalService.cs",
+              "DocumentMoniker": "D:\\c# training\\assignment\\student_info_system\\sis\\Service\\HospitalService.cs",
+              "RelativeDocumentMoniker": "sis\\Service\\HospitalService.cs",
+              "ToolTip": "D:\\c# training\\assignment\\student_info_system\\sis\\Service\\HospitalService.cs",
+              "RelativeToolTip": "sis\\Service\\HospitalService.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAADwv/MAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:09:04.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sisRepo.cs",
+              "DocumentMoniker": "D:\\c# training\\assignment\\student_info_system\\sis\\Repository\\sisRepo.cs",
+              "RelativeDocumentMoniker": "sis\\Repository\\sisRepo.cs",
+              "ToolTip": "D:\\c# training\\assignment\\student_info_system\\sis\\Repository\\sisRepo.cs",
+              "RelativeToolTip": "sis\\Repository\\sisRepo.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAqwPYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:27:28.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
